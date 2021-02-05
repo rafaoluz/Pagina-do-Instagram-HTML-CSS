@@ -1,1 +1,1 @@
-Foi feita a criação da página do Instagram com os conhecimentos adquiridos de HTML E CSS(Flexbox) no Bootcamp de HTML Web Developer. 
+#### Atividade proposta pela Digital Innovation One junto a Gabriela Pinheiro de recriar a Página do Instagram com os aprendizados de HMTL5 E CSS#(Flexbox)
